@@ -18,6 +18,7 @@ function App() {
          <input type="text" />
          <label>apellido</label>
          <input type="text" />
+         <input name='email' placeholder='email'/>
          <Component1 name={"submit"} />
        </form>
      </div>
