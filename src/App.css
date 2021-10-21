@@ -4,9 +4,11 @@
  body {
   background: linear-gradient(
     90deg,
+
     rgb(0, 162, 36) 0%,
     rgb(0, 98, 28) 44%,
     rgb(0, 4, 4) 100%
+
   );
  }
  h1 {
