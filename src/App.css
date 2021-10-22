@@ -2,12 +2,7 @@
   text-align: center;
  }
  body {
-  background: linear-gradient(
-    90deg,
-    rgb(221, 162, 36) 0%,
-    rgb(204, 98, 28) 44%,
-    rgb(164, 4, 4) 100%
-  );
+    background-color: blue;
  }
  h1 {
   color: white;
