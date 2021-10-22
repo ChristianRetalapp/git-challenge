@@ -18,8 +18,8 @@ function App() {
          <input type="text" />
          <label>apellido</label>
          <input type="text" />
-         <button>Click me</button>
-         <Component1 name={"submit"} />
+         <label>Correo</label>
+         <input type="email" />
        </form>
      </div>
    </div>
