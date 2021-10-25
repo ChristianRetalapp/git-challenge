@@ -4,6 +4,7 @@ export const Component1 = (props) => {
  return (
    <div>
      <button className="button">{props.name}</button>
+     <button>nuevo</button>
    </div>
  );
 };
